@@ -65,6 +65,7 @@ body {
   border-radius: 100px;
   border: 0.125rem solid var(--light-grey);
   cursor: pointer;
+  text-decoration: none;
 }
 .card .column .column__button:hover {
   color: var(--light-grey);
